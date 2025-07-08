@@ -9,17 +9,25 @@ It helps managers and analysts understand the impact of discounts, identify top-
 ❓ Key Questions Answered
 
 📌 Which year and quarter achieved the highest sales and profit?
+
 📌 Which products, categories, segments, cities, and states drive the most revenue?
+
 📌 How do discounts affect profit margins? At what point do they turn negative?
+
 📌 What percentage of orders come back as returns, and which products have the highest returns?
+
 📌 Where are lowest sales and lowest profits happening?
+
 📌 What are net sales, net cost, net profit, and return rates at a glance?
 
 ⚙️ How to Open It
 
 The dashboard is an Excel file (.xlsx).
+
 Open it with Microsoft Excel — Power Query and Pivot Tables are used, so make sure you have a version that supports Power Pivot (Excel 2016 or newer recommended).
+
 Enable macros & data connections if prompted.
+
 Use the slicers, filters, and visuals to explore insights interactively.
 
 📌 Highlights from the Insights
