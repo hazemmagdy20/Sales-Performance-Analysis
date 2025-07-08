@@ -30,18 +30,29 @@ Enable macros & data connections if prompted.
 
 Use the slicers, filters, and visuals to explore insights interactively.
 
+
 📌 Highlights from the Insights
 
 ✔️ 2017 has the highest total sales ($564,299), especially in Q4 ($222,871).
+
 ✔️ 2016 has the highest profit ($79,183), especially in Q4 ($37,531).
+
 ✔️ Q1 2014 shows the lowest sales ($55,437) and profit ($3,687).
+
 ✔️ Discounts above 30% can wipe out profit margins.
+
 ✔️ Net profit margin is around 14.47% after costs & discounts.
+
 ✔️ 5.91% of orders are returned.
+
 ✔️ Top customer segment: Consumer.
+
 ✔️ Top product: Canon imageCLASS 2200 Advanced Copier.
+
 ✔️ Top category: Technology.
+
 ✔️ Top region (sales): East; Top region (profit): West.
+
 ✔️ Top city: New York City; Top state: California.
 
 
