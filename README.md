@@ -1,16 +1,23 @@
 # Sales-Performance-Analysis
 
 ✅ What the Dashboard Does ?
+
 This dashboard analyzes sales performance, discounts, returns, and profitability trends over multiple years.
 It was built using Power Query for data cleaning, Power Pivot for modeling, and Excel for interactive charts and KPIs.
 It helps managers and analysts understand the impact of discounts, identify top-performing products, segments, and regions, and monitor returns rates.
 
 ❓ Key Questions Answered
+
 📌 Which year and quarter achieved the highest sales and profit?
+
 📌 Which products, categories, segments, cities, and states drive the most revenue?
+
 📌 How do discounts affect profit margins? At what point do they turn negative?
+
 📌 What percentage of orders come back as returns, and which products have the highest returns?
+
 📌 Where are lowest sales and lowest profits happening?
+
 📌 What are net sales, net cost, net profit, and return rates at a glance?
 
 ⚙️ How to Open It
