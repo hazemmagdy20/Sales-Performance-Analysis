@@ -69,3 +69,11 @@ New measures were created for Net Sales, Net Cost, Net Profit, etc.
 📸 Screenshots
 
 ![Dashboard ](https://github.com/user-attachments/assets/917c2f72-edee-40ae-9537-8c8afa2ec0fd)
+
+🚀 How to Use
+1️⃣ Open the .xlsx file.
+2️⃣ Check the slicers for year, quarter, region, segment, city and category.
+3️⃣ Use the cards for key KPIs: Net Sales, Net Profit, Return Rate, Total Orders sold, Total customers, etc.
+4️⃣ Use interactive charts for trends by time, region, product, and category.
+
+
