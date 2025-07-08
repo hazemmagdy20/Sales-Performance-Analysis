@@ -55,3 +55,17 @@ Use the slicers, filters, and visuals to explore insights interactively.
 ✔️ Top city: New York City; Top state: California.
 
 
+🧹 How the Data Was Prepared
+Cleaned with Power Query: header fixes, date parsing, splitting location fields, and creating calculated columns (discounted value, sales after discount, cost).
+
+Modeled as a star schema:
+
+Fact table: Orders
+
+Dimension tables: Returns, People, Shipping Cost
+
+New measures were created for Net Sales, Net Cost, Net Profit, etc.
+
+📸 Screenshots
+
+![Dashboard ](https://github.com/user-attachments/assets/917c2f72-edee-40ae-9537-8c8afa2ec0fd)
