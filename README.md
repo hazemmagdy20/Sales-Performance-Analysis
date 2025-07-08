@@ -30,7 +30,6 @@ Enable macros & data connections if prompted.
 
 Use the slicers, filters, and visuals to explore insights interactively.
 
-
 📌 Highlights from the Insights
 
 ✔️ 2017 has the highest total sales ($564,299), especially in Q4 ($222,871).
